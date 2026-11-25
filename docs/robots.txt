@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nezufr.github.io/WikiGTA6/sitemap.xml
